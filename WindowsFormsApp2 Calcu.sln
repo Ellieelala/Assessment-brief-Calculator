@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2 Calcu", "WindowsFormsApp2 Calcu\WindowsFormsApp2 Calcu.csproj", "{F020061F-E5CC-4A4B-BCB2-2991DD25F23C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F020061F-E5CC-4A4B-BCB2-2991DD25F23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F020061F-E5CC-4A4B-BCB2-2991DD25F23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F020061F-E5CC-4A4B-BCB2-2991DD25F23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F020061F-E5CC-4A4B-BCB2-2991DD25F23C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35DA2E87-787E-4D16-9584-1D1D8EDC5766}
+	EndGlobalSection
+EndGlobal
